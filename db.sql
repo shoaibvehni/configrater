@@ -7,6 +7,10 @@
 -- Server version: 10.4.28-MariaDB
 -- PHP Version: 8.0.28
 
+CREATE DATABASE IF NOT EXISTS usmajngk_product;
+
+USE usmajngk_product;
+
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
@@ -26,6 +30,7 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `orders`
 --
+
 
 CREATE TABLE `orders` (
   `orderid` int(11) NOT NULL,
