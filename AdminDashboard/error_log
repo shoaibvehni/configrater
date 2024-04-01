@@ -1,0 +1,67 @@
+[06-Aug-2021 10:22:06 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/usmajngk/marius.usmanbinwaheed.com/Functions/DB_Connect.php on line 14
+[06-Aug-2021 10:22:06 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/usmajngk/marius.usmanbinwaheed.com/Functions/DB_Functions.php on line 166
+[06-Aug-2021 10:22:06 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/index.php on line 120
+[06-Aug-2021 10:22:26 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/usmajngk/marius.usmanbinwaheed.com/Functions/DB_Connect.php on line 14
+[06-Aug-2021 10:22:26 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/usmajngk/marius.usmanbinwaheed.com/Functions/DB_Functions.php on line 166
+[06-Aug-2021 10:22:26 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/index.php on line 120
+[06-Aug-2021 10:22:30 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/usmajngk/marius.usmanbinwaheed.com/Functions/DB_Connect.php on line 14
+[06-Aug-2021 10:22:30 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/usmajngk/marius.usmanbinwaheed.com/Functions/DB_Functions.php on line 20
+[06-Aug-2021 10:22:30 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/products.php on line 104
+[06-Aug-2021 10:22:36 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/usmajngk/marius.usmanbinwaheed.com/Functions/DB_Connect.php on line 14
+[06-Aug-2021 10:22:36 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/usmajngk/marius.usmanbinwaheed.com/Functions/DB_Functions.php on line 166
+[06-Aug-2021 10:22:36 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/index.php on line 120
+[06-Aug-2021 10:22:38 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/usmajngk/marius.usmanbinwaheed.com/Functions/DB_Connect.php on line 14
+[06-Aug-2021 10:22:38 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/usmajngk/marius.usmanbinwaheed.com/Functions/DB_Functions.php on line 20
+[06-Aug-2021 10:22:38 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/products.php on line 104
+[06-Aug-2021 12:33:22 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/usmajngk/marius.usmanbinwaheed.com/Functions/DB_Connect.php on line 14
+[06-Aug-2021 12:33:22 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/usmajngk/marius.usmanbinwaheed.com/Functions/DB_Functions.php on line 166
+[06-Aug-2021 12:33:22 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/index.php on line 120
+[07-Aug-2021 13:43:33 America/New_York] PHP Notice:  Undefined variable: pidd in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 45
+[07-Aug-2021 13:43:33 America/New_York] PHP Notice:  Undefined variable: pidd in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 46
+[07-Aug-2021 13:43:33 America/New_York] PHP Notice:  Undefined variable: pidd in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 50
+[12-Aug-2021 10:59:55 America/New_York] PHP Notice:  Undefined variable: pidd in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 45
+[12-Aug-2021 10:59:55 America/New_York] PHP Notice:  Undefined variable: pidd in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 46
+[12-Aug-2021 10:59:55 America/New_York] PHP Notice:  Undefined variable: pidd in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 50
+[12-Aug-2021 10:59:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 134
+[12-Aug-2021 10:59:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 141
+[12-Aug-2021 10:59:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 148
+[12-Aug-2021 10:59:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 153
+[13-Aug-2021 02:37:10 America/New_York] PHP Notice:  Undefined variable: pidd in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 45
+[13-Aug-2021 02:37:10 America/New_York] PHP Notice:  Undefined variable: pidd in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 46
+[13-Aug-2021 02:37:10 America/New_York] PHP Notice:  Undefined variable: pidd in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 50
+[13-Aug-2021 02:37:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 134
+[13-Aug-2021 02:37:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 141
+[13-Aug-2021 02:37:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 148
+[13-Aug-2021 02:37:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 153
+[16-Aug-2021 00:14:39 America/New_York] PHP Notice:  Undefined variable: pidd in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 45
+[16-Aug-2021 00:14:39 America/New_York] PHP Notice:  Undefined variable: pidd in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 46
+[16-Aug-2021 00:14:39 America/New_York] PHP Notice:  Undefined variable: pidd in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 50
+[16-Aug-2021 00:14:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 134
+[16-Aug-2021 00:14:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 141
+[16-Aug-2021 00:14:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 148
+[16-Aug-2021 00:14:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 153
+[18-Aug-2021 05:08:32 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Functions::InsertProduct(), 3 passed in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/add-product.php on line 221 and exactly 4 expected in /home/usmajngk/marius.usmanbinwaheed.com/Functions/DB_Functions.php:57
+Stack trace:
+#0 /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/add-product.php(221): DB_Functions->InsertProduct('123', '2021-08-18 05.0...', '12')
+#1 {main}
+  thrown in /home/usmajngk/marius.usmanbinwaheed.com/Functions/DB_Functions.php on line 57
+[18-Aug-2021 05:08:50 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Functions::InsertProduct(), 3 passed in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/add-product.php on line 221 and exactly 4 expected in /home/usmajngk/marius.usmanbinwaheed.com/Functions/DB_Functions.php:57
+Stack trace:
+#0 /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/add-product.php(221): DB_Functions->InsertProduct('Signific Digita...', '2021-08-18 05.0...', '23')
+#1 {main}
+  thrown in /home/usmajngk/marius.usmanbinwaheed.com/Functions/DB_Functions.php on line 57
+[18-Aug-2021 08:47:32 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/add-product.php on line 247
+[18-Aug-2021 08:47:44 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/add-product.php on line 247
+[18-Aug-2021 08:47:50 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/add-product.php on line 247
+[18-Aug-2021 08:47:59 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/add-product.php on line 247
+[18-Aug-2021 09:40:47 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/add-product.php on line 247
+[19-Aug-2021 11:50:05 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 553
+[20-Aug-2021 05:50:28 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 553
+[20-Aug-2021 05:51:55 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 553
+[20-Aug-2021 05:54:41 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 553
+[20-Aug-2021 05:54:45 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 553
+[20-Aug-2021 05:54:49 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 553
+[20-Aug-2021 06:15:39 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 556
+[20-Aug-2021 06:16:03 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 556
+[23-Aug-2021 09:39:42 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 556
+[23-Aug-2021 11:00:43 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/usmajngk/marius.usmanbinwaheed.com/AdminDashboard/edit-product.php on line 556
